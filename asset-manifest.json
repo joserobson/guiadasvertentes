@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cc97e44.chunk.css",
-    "main.js": "/static/js/main.dcbc6f00.chunk.js",
-    "main.js.map": "/static/js/main.dcbc6f00.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.91cb0a56.chunk.js": "/static/js/2.91cb0a56.chunk.js",
-    "static/js/2.91cb0a56.chunk.js.map": "/static/js/2.91cb0a56.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.57bc5a4bafb7df313d0b275b5f6a7da8.js": "/precache-manifest.57bc5a4bafb7df313d0b275b5f6a7da8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5cc97e44.chunk.css.map": "/static/css/main.5cc97e44.chunk.css.map",
-    "static/media/Mapa1.gif": "/static/media/Mapa1.881636a1.gif",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/mapa.gif": "/static/media/mapa.f6a1df6d.gif",
-    "static/media/mapaGuia.PNG": "/static/media/mapaGuia.d78c3486.PNG"
+    "main.css": "guiadasvertentes/static/css/main.5cc97e44.chunk.css",
+    "main.js": "guiadasvertentes/static/js/main.dcbc6f00.chunk.js",
+    "main.js.map": "guiadasvertentes/static/js/main.dcbc6f00.chunk.js.map",
+    "runtime~main.js": "guiadasvertentes/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "guiadasvertentes/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.91cb0a56.chunk.js": "guiadasvertentes/static/js/2.91cb0a56.chunk.js",
+    "static/js/2.91cb0a56.chunk.js.map": "guiadasvertentes/static/js/2.91cb0a56.chunk.js.map",
+    "index.html": "guiadasvertentes/index.html",
+    "precache-manifest.57bc5a4bafb7df313d0b275b5f6a7da8.js": "guiadasvertentes/precache-manifest.57bc5a4bafb7df313d0b275b5f6a7da8.js",
+    "service-worker.js": "guiadasvertentes/service-worker.js",
+    "static/css/main.5cc97e44.chunk.css.map": "guiadasvertentes/static/css/main.5cc97e44.chunk.css.map",
+    "static/media/Mapa1.gif": "guiadasvertentes/static/media/Mapa1.881636a1.gif",
+    "static/media/logo.svg": "guiadasvertentes/static/media/logo.5d5d9eef.svg",
+    "static/media/mapa.gif": "guiadasvertentes/static/media/mapa.f6a1df6d.gif",
+    "static/media/mapaGuia.PNG": "guiadasvertentes/static/media/mapaGuia.d78c3486.PNG"
   }
 }
